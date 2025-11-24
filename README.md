@@ -1,0 +1,2 @@
+# android_ce_frida_root
+root版本一键启动CeServer或frida
