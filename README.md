@@ -11,7 +11,12 @@ frida-17.3.2版本
 adb forward tcp:27042 tcp:27042
 adb forward tcp:52736 tcp:52736
 ```
-
+```
+建议使用usb配合
+adb forward tcp:27042 tcp:27042
+adb forward tcp:52736 tcp:52736
+使用搜索速度更快
+```
 ```
 无需root版本
 https://github.com/chenxqiyu/android_ce_no_root
