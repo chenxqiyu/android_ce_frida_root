@@ -17,6 +17,8 @@ adb forward tcp:27042 tcp:27042
 adb forward tcp:52736 tcp:52736
 使用搜索速度更快
 ```
+<img width="1618" height="739" alt="image" src="https://github.com/user-attachments/assets/45843767-2c83-4ed2-a265-78e2b9e62c02" />
+
 ```
 无需root版本
 https://github.com/chenxqiyu/android_ce_no_root
