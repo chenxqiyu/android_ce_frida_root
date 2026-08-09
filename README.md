@@ -3,7 +3,7 @@ root版本一键启动CeServer或frida
 
 
 ```
-ce7.7版本
+ce7.5版本
 frida-17.3.2版本
 1.连接电脑端口转发使用
 2.ce可以无需转发
