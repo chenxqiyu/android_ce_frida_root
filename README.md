@@ -9,6 +9,7 @@ frida-17.3.2版本
 2.ce可以无需转发
 3.frida需要转发
 adb forward tcp:27042 tcp:27042
+adb forward tcp:27043 tcp:27043
 adb forward tcp:52736 tcp:52736
 ```
 ```
